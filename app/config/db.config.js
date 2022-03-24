@@ -2,7 +2,7 @@ module.exports = {
   HOST: "127.0.0.1",
   USER: "root",
   PASSWORD: "Merciful$100",
-  DB: "shopping"
+  DB: "shoppings"
 };
 
 
