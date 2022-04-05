@@ -19,7 +19,7 @@ exports.create = (req, res) => {
     datepost: req.body.datepost,
     datestart: req.body.datestart,
     numberallowed: req.body.numberallowed,
-    venus: req.body.venus,
+    venue: req.body.venue,
     description: req.body.description,
     image: req.body.image,
     location_image: req.body.location_image,
