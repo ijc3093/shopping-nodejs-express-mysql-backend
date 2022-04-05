@@ -22,7 +22,7 @@ Using Postman to get Nodejs to retrieve all data from the database in PRODUCT-AZ
 # Postman screen
 Displaying product
 
-![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/login.PNG)
+![Screenshot](https://github.com/ijc3093/shopping-nodejs-express-mysql-backend/blob/master/images/Display.png)
 
 # Operational Model
 -	Rules
